@@ -12,7 +12,7 @@ def rd(startYear,startMonth,endYear,endMonth,day = "01"): #returnStrDateList 組
             month = str(month)
             if len(month) == 1:
                 month = "0" + month
-            result.append(str(startYear),month,day)
+            result.append(str(startYear)+month+day)
         return result
     for year in range(startYear,endYear+1):
         if year == startYear: #當年份=起始年份時的月份

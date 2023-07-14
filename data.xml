@@ -1,10 +1,10 @@
 <stockData>
   <url>https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY</url>
-  <excelName>台積電</excelName>
-  <startYear>2022</startYear>
+  <excelName>宏達電</excelName>
+  <startYear>2023</startYear>
   <startMonth>1</startMonth>
   <endYear>2023</endYear>
-  <endMonth>6</endMonth>
-  <stockNo>2330</stockNo>
+  <endMonth>7</endMonth>
+  <stockNo>2498</stockNo>
   <delaySec>0.1</delaySec>
 </stockData>
